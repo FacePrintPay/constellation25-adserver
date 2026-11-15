@@ -1,5 +1,7 @@
 {
-  "cleanUrls": true,
+  "version": 2,
+  "buildCommand": "",
   "outputDirectory": ".",
-  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
+  "cleanUrls": true,
+  "trailingSlash": false
 }
